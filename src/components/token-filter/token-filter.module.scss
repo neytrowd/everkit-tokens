@@ -1,0 +1,21 @@
+.filter {
+  background: #fff;
+  border-radius: 24px;
+  padding: 5px;
+
+  &_btn {
+    border: none;
+    border-radius: 16px;
+    padding: 8px;
+    color: #93949D;
+    background: #fff;
+  }
+
+  .active {
+    color: #fff;
+    background: linear-gradient(201.66deg, #B380FD 12.94%, #6347F5 78.23%);
+  }
+}
+
+
+
